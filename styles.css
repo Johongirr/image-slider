@@ -62,7 +62,7 @@ a {
 .img .text-container {
     position: absolute;
     bottom: 5rem;
-    left: -700px;
+    left: -800px;
     background-color: beige;
     padding: 3rem 2rem;
     transition: all 0.9s;
